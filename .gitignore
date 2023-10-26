@@ -1,0 +1,5 @@
+# ignore virtual environments
+env/
+
+#ignore secret key
+key.py
